@@ -1,1 +1,1 @@
-# Learning-Spot
+# LearningSpot
