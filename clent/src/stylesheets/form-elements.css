@@ -1,0 +1,46 @@
+input{
+    height: 20px !important;
+    padding: 10px 20px !important;
+    border: 2px solid #4a4848 !important;
+    width:300px;
+    border-radius: 2px !important;
+   }
+   select{
+    height: 43px !important;
+    padding: 10px 20px !important;
+    border: 2px solid #4a4848 !important;
+    background-color: white;
+    width:300px;
+    border-radius: 2px !important;
+   }
+
+.ant-form-item{
+    margin-bottom: 10px !important;
+}
+   .primary-contained-btn{
+    background-color: var(--primary);
+    color: white;
+    padding: 10px 20px;
+   }
+
+   .primary-outlined-btn{
+    background-color: white;
+    color: var(--primary);
+    border: 2px solid var(--primary);
+    padding: 10px 20px;
+    border-radius: 2px;
+   }
+   .secondary-outlined-btn{
+    background-color:rgb(18, 17, 17);
+    border: 2px solid white;
+    color:white;
+    padding: 10px 20px;
+    border-radius: 2px;
+   }
+
+   .btn{
+    background-color: #52ac44;
+    color: white;
+    border-color: black;
+    padding: 10px 20px;
+   }
